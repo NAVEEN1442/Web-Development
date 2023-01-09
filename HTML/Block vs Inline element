@@ -1,0 +1,15 @@
+There are a couple of key differences between block-level elements and inline elements:
+
+1.Content model:
+
+  Generally, block-level elements may contain inline elements and (sometimes) other block-level elements.
+  Inherent in this structural distinction is the idea that block elements create "larger" structures than inline elements.
+
+2.Default formatting:
+
+  By default, block-level elements begin on new lines, but inline elements can start anywhere in a line.
+  
+  EXAMPLE :
+  Block elements - <p>, <h1>-<h6>, list(<ul>, <ol>).
+  Inline elements - <em>, <strong>, <a>.
+  
