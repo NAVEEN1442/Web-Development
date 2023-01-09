@@ -1,0 +1,31 @@
+<ol> : ordered list
+
+<ul> : unrodered list
+
+<li> : create items in the list
+
+---------------------------C O D E -----------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+  <!-- UNRODERED LIST -->
+    <ul>
+        <li>Course 1</li>
+        <li>Course 2</li>
+        <li>Course 3</li>
+    </ul>
+   <!-- UNRODERED LIST -->
+    <ol>
+        <li>Course 1</li>
+        <li>Course 2</li>
+        <li>Course 3</li>
+
+    </ol>
+</body>
+</html>
+---------------------------C O D E -----------------------------
+
+Note :- <!-- --> [It is used to add a comment : a comment is a text which can be visually seen but compliler dosen't include it in processing]
