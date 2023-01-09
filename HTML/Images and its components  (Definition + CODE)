@@ -1,0 +1,42 @@
+We use <img/> in HTML to insert images.
+
+Some Atributes of <img/> are :
+1. src : Used to specify the location of the image.
+2. alt : Specifies alternative text that displays if the image cannot be rendered.
+3. height : Determines the height of image.
+4. weigth : Determines the width of image.
+5. border : specifies thethickness of borders around the image (Defalut = 0 ).
+
+------------------------------------- C O D E -----------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <img src="download.jpeg" alt="Image of a car" height="50" width="50" > 
+</body>
+</html>
+
+------------------------------------- C O D E -----------------------------------------
+
+In the above example u have to first save your image in the same folder where your HTML file is getting saved.
+
+But what if you want to get the image directly from the internet then the code follows like this :
+
+------------------------------------- C O D E -----------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <img src="https://d27jswm5an3efw.cloudfront.net/app/uploads/2019/07/insert-image-html.jpg" alt="Image of a car" height="50" width="50" > 
+</body>
+</html>
+
+------------------------------------- C O D E -----------------------------------------
+
+TRY TO RUN THE ABOVE MENTIONED CODE IN YOUR PREFFERED ID :)
