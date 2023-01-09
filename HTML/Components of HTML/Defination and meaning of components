@@ -1,0 +1,9 @@
+<html> tag : This tag acts as a container for every other element in the document except <!DOCTYPE html>.
+
+<!DOCTYPE html> : Tells the browser that the code is written in HTML 5 document.
+
+<head> tag : Includes all the documents meta data.
+
+<title> : Defines title of document which is displayed in browser's title bar.
+
+<body> : Acts as a container for docs content that get's displayed on the browser.
